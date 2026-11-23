@@ -132,7 +132,9 @@ Logistic Regression was successfully implemented for credit card fraud detection
 The model was evaluated using several performance metrics and different classification thresholds. The results demonstrate the importance of Recall and F1-score when working with imbalanced datasets. Threshold 0.3 performed best among the tested thresholds when prioritizing fraud detection.
 
 This project helped understand the practical implementation of Logistic Regression, data preprocessing, model evaluation, and classification threshold selection.
+## 🎓 Faculty Submission
 
+GitHub ID: [complexiota](https://github.com/complexiota)
 ## Author
 
 **Shubham Sonwane**
